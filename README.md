@@ -17,13 +17,13 @@ I bridge the gap between technology and the people who use it — combining a ba
 
 ### 🛠️ Technologies & Tools
 
-`Python` `HTML` `CSS` `Azure` `Cloud Infrastructure` `AS400` `Microsoft Dynamics` `SAP` `Microsoft Excel` `Microsoft Teams`
+`Python` `HTML` `CSS` `Azure` `Cloud Infrastructure` `AS400` `Microsoft 365` `SAP` `Microsoft Excel` `Microsoft Teams`
 
 ---
 
 ### 📌 Professional Background
 
-- **Operations Supervisor** — Brook Crompton Americas (Etobicoke, ON) · Led ERP implementation to 91% adoption across a 12-person team
+- **Logistics & Operations Supervisor** — Brook Crompton Americas (Etobicoke, ON) · Led ERP implementation to 91% adoption across a 12-person team
 - **MBA in Management & Change** — Carleton University (2026)
 - **PMP** — Project Management Professional, PMI
 - **PGCert in Human Resources Management** — George Brown Polytechnic (2024, GPA 3.87)
